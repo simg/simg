@@ -8,6 +8,7 @@ Current interests
 * General Relativity
 * Cosmology
 * Quantum Mechanics
+* Parametric 3d modelling
 
 Interesting Languges
 
