@@ -10,7 +10,7 @@ Current interests
 * Quantum Mechanics
 * Parametric 3d modelling
 
-Interesting Languges
+Interesting Languages
 
 * Rust
 * Haskell
